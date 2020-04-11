@@ -7,6 +7,7 @@ Number of products: 74,258
 Timespan: Oct 1999 - Oct 2012
 Number of Attributes/Columns in data: 10
 
+Data set can be found @ https://www.kaggle.com/snap/amazon-fine-food-reviews
 Attribute Information:
 
 Id
