@@ -1,4 +1,4 @@
-# Naive-Bayes-on-Amazon-fine-food-reviews
+#Amazon-fine-food-reviews
 The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amazon.
 
 Number of reviews: 568,454
